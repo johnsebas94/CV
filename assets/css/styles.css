@@ -1,0 +1,55 @@
+body {
+  background-color: white;
+}
+.encabezado {
+  background-color: rgba(0, 0, 253, 0.664);
+}
+.texto {
+  color: blanchedalmond;
+}
+.perfil {
+  text-align: justify;
+  padding: 0 380px 10px 10px;
+}
+.posteriorDerecha {
+  background-color: rgba(0, 0, 253, 0.664);
+  width: 350px;
+  height: 1150px;
+  float: right;
+  margin: -1170px 0px 0px 0px;
+  text-align: justify;
+  padding: 10px 0 10px 10px;
+}
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-color: grey;
+  border-width: 5px;
+  height: 0px;
+  width: 5%;
+}
+h1 {
+  color: black;
+}
+h3 {
+  color: rgba(0, 0, 253, 0.664);
+}
+h4 {
+  color: black;
+}
+.titulosh3 {
+  color: white;
+}
+.textolenguaje {
+  width: 350px;
+  height: 1150px;
+  float: right;
+  margin: -700px 0px 0px 0px;
+  text-align: justify;
+  padding: 10px 0 10px 10px;
+}
+.textocontacto {
+  float: right;
+  margin: -350px -370px 10px 10px;
+  padding: 0px 0px 0px 0px;
+}
